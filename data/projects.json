@@ -82,5 +82,9 @@
   "mocha": {
     "name": "Mocha",
     "q": "org:mochajs is:issue is:open label:good-first-issue"
+  },
+  "p2": {
+    "name": "P2",
+    "q": "org:mochajs is:issue is:open label:good-first-issue"
   }
 }
